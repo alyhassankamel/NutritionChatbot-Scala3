@@ -120,12 +120,13 @@ src/main/scala/
   SmallTalk.scala            # Friendly interactions
 ```
 
-##🧪 Development & Testing
+## 🧪 Development & Testing
 
+```plaintext
 sbt compile      # Compile the project
 sbt run          # Run the chatbot
 sbt console      # Start Scala 3 REPL
-
+```
 
 ## 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
