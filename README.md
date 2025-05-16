@@ -41,7 +41,7 @@ A comprehensive, interactive Scala 3 chatbot that delivers personalized fitness 
 ## 🚀 Installation
 
 ```bash
-git clone [https://github.com/yourusername/nutrition-chatbot.git](https://github.com/alyhassankamel/NutritionChatbot-Scala3.git)
+git clone [https://github.com/alyhassankamel/NutritionChatbot-Scala3.git]
 cd nutrition-chatbot
 sbt compile
 
