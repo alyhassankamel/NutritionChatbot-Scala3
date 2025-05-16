@@ -1,0 +1,266 @@
+min_calories,max_calories,purpose,diet_type,meal_plan
+1500,1800,Extreme Weight Loss,Standard,"Breakfast: Oatmeal with berries and nuts (300 cal)
+Alternative: Protein smoothie with banana and peanut butter
+
+Lunch: Grilled chicken salad with vinaigrette (400 cal)
+Alternative: Tuna wrap with vegetables
+
+Snack: Greek yogurt with honey (150 cal)
+Alternative: Cottage cheese with fruit
+
+Dinner: Baked fish with steamed vegetables (450 cal)
+Alternative: Grilled chicken with quinoa
+
+Snack: Apple with peanut butter (200 cal)
+Alternative: Protein bar with almonds"
+1500,1800,Extreme Weight Loss,Mediterranean,"Breakfast: Greek yogurt with honey and nuts (300 cal)
+Alternative: Whole grain toast with avocado and eggs
+
+Lunch: Grilled chicken with olive oil and lemon (400 cal)
+Alternative: Falafel wrap with hummus
+
+Snack: Olives and feta cheese (150 cal)
+Alternative: Hummus with vegetables
+
+Dinner: Grilled fish with roasted vegetables (450 cal)
+Alternative: Mediterranean chicken with couscous
+
+Snack: Fresh fruit with nuts (200 cal)
+Alternative: Greek yogurt with honey"
+1500,1800,Extreme Weight Loss,Vegetarian,"Breakfast: Chia pudding with fruit (300 cal)
+Alternative: Tofu scramble with vegetables
+
+Lunch: Quinoa salad with chickpeas (400 cal)
+Alternative: Lentil and vegetable soup
+
+Snack: Hummus with veggies (150 cal)
+Alternative: Greek yogurt with granola
+
+Dinner: Lentil soup with spinach (450 cal)
+Alternative: Vegetable stir-fry with tofu
+
+Snack: Edamame (200 cal)
+Alternative: Mixed nuts and seeds"
+1500,1800,Extreme Weight Loss,Vegan,"Breakfast: Tofu scramble with vegetables (300 cal)
+Alternative: Vegan protein smoothie bowl
+
+Lunch: Buddha bowl with quinoa (400 cal)
+Alternative: Vegan wrap with tempeh
+
+Snack: Roasted chickpeas (150 cal)
+Alternative: Vegan protein bar
+
+Dinner: Vegan curry with brown rice (450 cal)
+Alternative: Vegan stir-fry with tofu
+
+Snack: Mixed nuts and seeds (200 cal)
+Alternative: Vegan yogurt with granola"
+1500,1800,Extreme Weight Loss,Low-Carb,"Breakfast: Scrambled eggs with avocado (300 cal)
+Alternative: Protein pancakes with berries
+
+Lunch: Grilled chicken salad (400 cal)
+Alternative: Tuna salad with vegetables
+
+Snack: Cheese and nuts (150 cal)
+Alternative: Hard-boiled eggs
+
+Dinner: Baked salmon with vegetables (450 cal)
+Alternative: Grilled steak with asparagus
+
+Snack: Greek yogurt with berries (200 cal)
+Alternative: Cottage cheese with nuts"
+1800,2100,Weight Loss,Standard,"Breakfast: Scrambled eggs with whole wheat toast (400 cal)
+Alternative: Protein smoothie with oats
+
+Lunch: Turkey wrap with vegetables (500 cal)
+Alternative: Chicken and rice bowl
+
+Snack: Apple with peanut butter (200 cal)
+Alternative: Greek yogurt with granola
+
+Dinner: Grilled salmon with quinoa (550 cal)
+Alternative: Lean beef with sweet potato
+
+Snack: Cottage cheese with berries (150 cal)
+Alternative: Protein shake"
+1800,2100,Weight Loss,Mediterranean,"Breakfast: Greek yogurt with pomegranate (400 cal)
+Alternative: Mediterranean omelet
+
+Lunch: Grilled chicken with pita bread (500 cal)
+Alternative: Falafel plate with hummus
+
+Snack: Hummus with veggies (200 cal)
+Alternative: Olives and cheese
+
+Dinner: Grilled fish with lemon and herbs (550 cal)
+Alternative: Mediterranean chicken with vegetables
+
+Snack: Fresh figs with cheese (150 cal)
+Alternative: Greek yogurt with honey"
+1800,2100,Weight Loss,Vegetarian,"Breakfast: Vegetable omelette (400 cal)
+Alternative: Tofu scramble with vegetables
+
+Lunch: Lentil and vegetable soup (500 cal)
+Alternative: Quinoa bowl with vegetables
+
+Snack: Greek yogurt with honey (200 cal)
+Alternative: Hummus with pita
+
+Dinner: Stuffed bell peppers (550 cal)
+Alternative: Vegetable curry with rice
+
+Snack: Mixed nuts (150 cal)
+Alternative: Protein shake"
+1800,2100,Weight Loss,Vegan,"Breakfast: Tofu scramble with veggies (400 cal)
+Alternative: Vegan protein smoothie
+
+Lunch: Vegan wrap with tempeh (500 cal)
+Alternative: Buddha bowl with quinoa
+
+Snack: Fresh fruit salad (200 cal)
+Alternative: Vegan protein bar
+
+Dinner: Vegan curry with brown rice (550 cal)
+Alternative: Vegan stir-fry with tofu
+
+Snack: Vegan protein shake (150 cal)
+Alternative: Mixed nuts and seeds"
+1800,2100,Weight Loss,Low-Carb,"Breakfast: Avocado and egg toast (400 cal)
+Alternative: Protein pancakes
+
+Lunch: Chicken Caesar salad (500 cal)
+Alternative: Tuna salad with avocado
+
+Snack: Hard-boiled eggs (200 cal)
+Alternative: Cheese and nuts
+
+Dinner: Grilled steak with vegetables (550 cal)
+Alternative: Baked salmon with asparagus
+
+Snack: Cottage cheese (150 cal)
+Alternative: Greek yogurt with berries"
+2100,2400,Moderate Weight Loss/Maintenance,Standard,"Breakfast: Protein smoothie with banana (450 cal)
+Lunch: Chicken stir-fry with brown rice (600 cal)
+Snack: Trail mix (250 cal)
+Dinner: Lean steak with sweet potato (650 cal)
+Snack: Protein shake (200 cal)"
+2100,2400,Moderate Weight Loss/Maintenance,Mediterranean,"Breakfast: Greek yogurt with nuts and honey (450 cal)
+Lunch: Chicken kebab with pita bread (600 cal)
+Snack: Olives and cheese (250 cal)
+Dinner: Grilled steak with roasted vegetables (650 cal)
+Snack: Fresh fruit salad (200 cal)"
+2100,2400,Moderate Weight Loss/Maintenance,Vegetarian,"Breakfast: Vegetable frittata (450 cal)
+Lunch: Mushroom risotto (600 cal)
+Snack: Mixed nuts (250 cal)
+Dinner: Portobello mushroom steaks (650 cal)
+Snack: Greek yogurt with berries (200 cal)"
+2100,2400,Moderate Weight Loss/Maintenance,Vegan,"Breakfast: Vegan protein smoothie (450 cal)
+Lunch: Buddha bowl with tempeh (600 cal)
+Snack: Vegan protein bar (250 cal)
+Dinner: Vegan stir-fry with tofu (650 cal)
+Snack: Mixed nuts and seeds (200 cal)"
+2100,2400,Moderate Weight Loss/Maintenance,Low-Carb,"Breakfast: Protein pancakes (450 cal)
+Lunch: Chicken stir-fry with vegetables (600 cal)
+Snack: Almonds and cheese (250 cal)
+Dinner: Grilled salmon with asparagus (650 cal)
+Snack: Greek yogurt with nuts (200 cal)"
+2400,2700,Maintenance,Standard,"Breakfast: Avocado toast with eggs (500 cal)
+Lunch: Tuna salad sandwich (600 cal)
+Snack: Protein bar (300 cal)
+Dinner: Pork chops with mashed potatoes (700 cal)
+Snack: Dark chocolate with nuts (250 cal)"
+2400,2700,Maintenance,Mediterranean,"Breakfast: Greek yogurt with fresh fruit (500 cal)
+Lunch: Tuna salad with pita bread (600 cal)
+Snack: Hummus with veggies (300 cal)
+Dinner: Grilled pork with Mediterranean vegetables (700 cal)
+Snack: Fresh fruit with nuts (250 cal)"
+2400,2700,Maintenance,Vegetarian,"Breakfast: Vegetable omelette with cheese (500 cal)
+Lunch: Quinoa bowl with vegetables (600 cal)
+Snack: Greek yogurt with granola (300 cal)
+Dinner: Vegetable lasagna (700 cal)
+Snack: Mixed nuts and dried fruit (250 cal)"
+2400,2700,Maintenance,Vegan,"Breakfast: Vegan breakfast burrito (500 cal)
+Lunch: Vegan sushi rolls (600 cal)
+Snack: Vegan protein bar (300 cal)
+Dinner: Vegan lasagna (700 cal)
+Snack: Vegan chocolate (250 cal)"
+2400,2700,Maintenance,Low-Carb,"Breakfast: Bacon and eggs (500 cal)
+Lunch: Chicken salad with avocado (600 cal)
+Snack: Cheese and nuts (300 cal)
+Dinner: Grilled steak with vegetables (700 cal)
+Snack: Greek yogurt with berries (250 cal)"
+2700,3000,Lean Bulk,Standard,"Breakfast: Protein pancakes with syrup (600 cal)
+Lunch: Beef burrito bowl (700 cal)
+Snack: Hard-boiled eggs (200 cal)
+Dinner: Grilled chicken with pasta (800 cal)
+Snack: Casein protein shake (300 cal)"
+2700,3000,Lean Bulk,Mediterranean,"Breakfast: Greek yogurt with granola (600 cal)
+Lunch: Beef kebab with pita bread (700 cal)
+Snack: Olives and cheese (200 cal)
+Dinner: Grilled chicken with Mediterranean vegetables (800 cal)
+Snack: Fresh fruit with nuts (300 cal)"
+2700,3000,Lean Bulk,Vegetarian,"Breakfast: Protein smoothie with Greek yogurt (600 cal)
+Lunch: Quinoa bowl with vegetables (700 cal)
+Snack: Mixed nuts and seeds (200 cal)
+Dinner: Vegetable curry with rice (800 cal)
+Snack: Greek yogurt with honey (300 cal)"
+2700,3000,Lean Bulk,Vegan,"Breakfast: Vegan protein pancakes (600 cal)
+Lunch: Vegan burrito bowl (700 cal)
+Snack: Vegan protein balls (200 cal)
+Dinner: Vegan pasta with lentil meatballs (800 cal)
+Snack: Vegan protein shake (300 cal)"
+2700,3000,Lean Bulk,Low-Carb,"Breakfast: Protein pancakes with bacon (600 cal)
+Lunch: Beef bowl with vegetables (700 cal)
+Snack: Hard-boiled eggs (200 cal)
+Dinner: Grilled chicken with vegetables (800 cal)
+Snack: Protein shake (300 cal)"
+3000,3300,Moderate Bulk,Standard,"Breakfast: 4 eggs with bacon and toast (700 cal)
+Lunch: Chicken parmesan with spaghetti (800 cal)
+Snack: Peanut butter sandwich (400 cal)
+Dinner: Ribeye steak with baked potato (900 cal)
+Snack: Mass gainer shake (500 cal)"
+3000,3300,Moderate Bulk,Mediterranean,"Breakfast: Greek yogurt with honey and nuts (700 cal)
+Lunch: Chicken parmesan with pita bread (800 cal)
+Snack: Hummus with veggies (400 cal)
+Dinner: Grilled steak with Mediterranean vegetables (900 cal)
+Snack: Fresh fruit with nuts (500 cal)"
+3000,3300,Moderate Bulk,Vegetarian,"Breakfast: Protein smoothie with Greek yogurt (700 cal)
+Lunch: Vegetable curry with rice (800 cal)
+Snack: Mixed nuts and seeds (400 cal)
+Dinner: Vegetable lasagna (900 cal)
+Snack: Greek yogurt with granola (500 cal)"
+3000,3300,Moderate Bulk,Vegan,"Breakfast: Vegan protein waffles (700 cal)
+Lunch: Vegan parmesan with spaghetti (800 cal)
+Snack: Vegan peanut butter sandwich (400 cal)
+Dinner: Vegan steak with baked potato (900 cal)
+Snack: Vegan mass gainer shake (500 cal)"
+3000,3300,Moderate Bulk,Low-Carb,"Breakfast: Bacon and eggs with avocado (700 cal)
+Lunch: Chicken parmesan with vegetables (800 cal)
+Snack: Cheese and nuts (400 cal)
+Dinner: Ribeye steak with vegetables (900 cal)
+Snack: Protein shake (500 cal)"
+3300,9999,High Calorie,Standard,"Breakfast: Steak and eggs with hash browns (800 cal)
+Lunch: Double cheeseburger with fries (900 cal)
+Snack: Nuts and dried fruit (500 cal)
+Dinner: BBQ ribs with mac and cheese (1000 cal)
+Snack: Whole milk with peanut butter (600 cal)"
+3300,9999,High Calorie,Mediterranean,"Breakfast: Greek yogurt with granola and nuts (800 cal)
+Lunch: Grilled chicken with pita bread (900 cal)
+Snack: Hummus with veggies (500 cal)
+Dinner: Grilled steak with Mediterranean vegetables (1000 cal)
+Snack: Fresh fruit with nuts (600 cal)"
+3300,9999,High Calorie,Vegetarian,"Breakfast: Protein smoothie with Greek yogurt (800 cal)
+Lunch: Vegetable curry with rice (900 cal)
+Snack: Mixed nuts and seeds (500 cal)
+Dinner: Vegetable lasagna (1000 cal)
+Snack: Greek yogurt with granola (600 cal)"
+3300,9999,High Calorie,Vegan,"Breakfast: Vegan protein waffles (800 cal)
+Lunch: Vegan parmesan with spaghetti (900 cal)
+Snack: Vegan peanut butter sandwich (500 cal)
+Dinner: Vegan steak with baked potato (1000 cal)
+Snack: Vegan mass gainer shake (600 cal)"
+3300,9999,High Calorie,Low-Carb,"Breakfast: Bacon and eggs with avocado (800 cal)
+Lunch: Chicken parmesan with vegetables (900 cal)
+Snack: Cheese and nuts (500 cal)
+Dinner: Ribeye steak with vegetables (1000 cal)
+Snack: Protein shake (600 cal)"
