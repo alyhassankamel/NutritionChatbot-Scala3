@@ -1,115 +1,140 @@
-# Nutrition Chatbot
+# 🥗 Nutrition Chatbot – Scala 3 Terminal Assistant
 
-A comprehensive, interactive nutrition and fitness assistant built with Scala 3.
+![Scala Version](https://img.shields.io/badge/Scala-3.x-red)
+![Build Tool](https://img.shields.io/badge/Build-sbt-blue)
+![Platform](https://img.shields.io/badge/Platform-Terminal-informational)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-## Overview
+A comprehensive, interactive Scala 3 chatbot that delivers personalized fitness and nutrition advice, BMI & FFMI tracking, quizzes, motivational content, and more — right from your terminal.
 
-The Nutrition Chatbot is an intelligent command-line application designed to help users on their fitness journey. It provides personalized advice, calculations, and information about nutrition, fitness, and health. The chatbot collects user data to offer tailored recommendations and maintains conversation history for a seamless experience.
+---
 
-## Features
+## 🧠 Overview
 
-- **User Profile Management**: Collects and stores user information (name, age, height, weight, gender, body fat percentage)
-- **BMI Calculation**: Calculates Body Mass Index and provides category classification
-- **FFMI Calculation**: Calculates Fat-Free Mass Index to measure muscle mass relative to height
-- **Diet & Nutrition Advice**: Offers personalized nutrition guidance
-- **Fitness Facts**: Provides interesting facts about fitness and nutrition
-- **Interactive Quiz**: Tests users' knowledge about fitness and nutrition
-- **Analytics**: Tracks user progress and key metrics
-- **Workout Planner**: Helps users plan and track their workouts
-- **Preferences**: Allows users to set fitness preferences for personalized advice
-- **Motivational Quotes**: Delivers motivation to keep users inspired
-- **Conversation History**: Maintains a log of interactions
-- **Unit Conversion**: Supports both metric and imperial measurement systems
+**Nutrition Chatbot** is a powerful command-line assistant built to support users in their health and fitness journey. It provides personalized advice, intelligent calculations, and engaging content to keep users motivated and informed.
 
-## Prerequisites
+---
 
-- Java JDK 11 or higher
-- sbt (Scala Build Tool) 1.5.0 or higher
+## ✨ Features
 
-## Installation
+- **User Profile Management** – Collects & stores user info (name, age, height, weight, gender, body fat %, preferences)
+- **BMI & FFMI Calculation** – Analyzes body metrics and provides health classifications
+- **Personalized Nutrition Tips** – Tailored dietary suggestions based on user data
+- **Interactive Fitness Quiz** – Test your knowledge with a fun, educational quiz
+- **Progress Analytics** – Track your metrics over time
+- **Workout Planner** – Plan and manage workouts aligned with your goals
+- **Motivational Quotes** – Get inspired to stay consistent
+- **Fitness Facts & Jokes** – Fun, engaging content to keep it interesting
+- **Natural Language Commands** – Talk to the chatbot in simple English
+- **Conversation History** – Keeps logs of your previous interactions
+- **Unit Conversion Support** – Metric and imperial measurement systems
 
-1. Clone this repository:
-   ```
-   git clone https://github.com/yourusername/nutrition-chatbot.git
-   cd nutrition-chatbot
-   ```
+---
 
-2. Build the project:
-   ```
-   sbt compile
-   ```
+## 🛠 Prerequisites
 
-## Running the Application
+- Java JDK 11 or higher  
+- [sbt](https://www.scala-sbt.org/) 1.5.0 or higher
 
-To start the chatbot:
+---
 
-```
+## 🚀 Installation
+git clone [https://github.com/alyhassankamel/NutritionChatbot-Scala3.git]
+cd nutrition-chatbot
+sbt compile
+
+
+## 🧾 Running the Application
 sbt run
+
+## 🧭 Usage Guide
+
+```
+🧍 Initial Setup
+On first launch, the chatbot will request:
+
+Name
+
+Age
+
+Height (meters or feet)
+
+Weight (kg or lbs)
+
+Gender (M/F)
+
+Body fat percentage
+
+Preferred measurement system (imperial or metric)
+
+💬 Available Commands
+You can interact naturally. Some supported inputs include:
+
+Tell me a fitness fact
+
+Calculate my BMI
+
+Calculate my FFMI
+
+I want to take a quiz
+
+Show me my analytics
+
+Help me plan a workout
+
+Tell me about nutrition
+
+I need motivation
+
+Show my conversation history
+
+Clear my history
+
+Update my preferences
+
+Tell me a joke
+
+What can you do?
+
+Exit
 ```
 
-## Usage Guide
+## 🧱 Project Structure
 
-1. **Initial Setup**:
-   - When you first run the application, the chatbot will ask for your personal information:
-     - Name
-     - Age
-     - Height (in meters or feet)
-     - Weight (in kg or lbs)
-     - Gender (M/F)
-     - Body fat percentage
-     - Preferred measurement system (imperial or metric)
+```plaintext
+src/main/scala/
+  Main.scala                 # Main loop
+  User.scala                 # User profile logic
+  BMI.scala                  # BMI calculations
+  FFMI.scala                 # FFMI calculations
+  Diet.scala                 # Nutrition tips
+  Facts.scala                # Fitness facts
+  Quiz.scala                 # Fitness quiz
+  Analytics.scala            # Tracking progress
+  WorkoutPlanner.scala       # Workout planning
+  Preferences.scala          # User preferences
+  Jokes.scala                # Fitness jokes
+  Tips.scala                 # Health tips
+  Motivations.scala          # Motivational quotes
+  CommandParser.scala        # NLP-style command handling
+  ConversationManager.scala  # History logging
+  InputValidator.scala       # Input validation
+  SmallTalk.scala            # Friendly interactions
+```
 
-2. **Available Commands**:
-   - After setup, you can interact with the chatbot using natural language. Here are some examples:
-     - `Tell me a fitness fact` - Get an interesting fitness fact
-     - `Calculate my BMI` - Calculate your Body Mass Index
-     - `Calculate my FFMI` - Calculate your Fat-Free Mass Index
-     - `I want to take a quiz` - Test your fitness knowledge
-     - `Show me my analytics` - View your fitness analytics
-     - `Help me plan a workout` - Start the workout planner
-     - `Tell me about nutrition` - Get diet and nutrition advice
-     - `I need motivation` - Get a motivational quote
-     - `Show my conversation history` - View past interactions
-     - `Clear my history` - Delete conversation history
-     - `Update my preferences` - Change your fitness preferences
-     - `Tell me a joke` - Hear a fitness-related joke
-     - `What can you do?` - See all available capabilities
-     - `Exit` - End the conversation
+## 🧪 Development & Testing
 
-3. **Conversation Flow**:
-   - The chatbot uses natural language processing to understand your requests
-   - It will respond with relevant information and may ask follow-up questions
-   - Your interactions are logged to provide a personalized experience
+```plaintext
+sbt compile      # Compile the project
+sbt run          # Run the chatbot
+sbt console      # Start Scala 3 REPL
+```
 
-## Development
+## 📜 License
+This project is licensed under the MIT License – see the LICENSE file for details.
 
-This project is built with Scala 3 using the sbt build system.
+## 🙌 Contributing
+Contributions, bug reports, and feature suggestions are welcome. Please open an issue or submit a pull request.
 
-### Project Structure
-
-- `Main.scala`: Entry point and main conversation loop
-- Supporting modules:
-  - `User.scala`: User profile management
-  - `BMI.scala`: BMI calculation functionality
-  - `FFMI.scala`: FFMI calculation functionality
-  - `Diet.scala`: Nutrition advice
-  - `Facts.scala`: Fitness facts database
-  - `Quiz.scala`: Interactive quiz functionality
-  - `Analytics.scala`: User progress tracking
-  - `WorkoutPlanner.scala`: Workout planning functionality
-  - `Preferences.scala`: User preference management
-  - `Jokes.scala`: Fitness-related jokes
-  - `Tips.scala`: Health and fitness tips
-  - `Motivations.scala`: Motivational quotes
-  - `CommandParser.scala`: Natural language processing
-  - `ConversationManager.scala`: Conversation history management
-  - `InputValidator.scala`: User input validation
-  - `SmallTalk.scala`: Casual conversation handling
-
-### Building and Testing
-
-- Compile the code: `sbt compile`
-- Run the application: `sbt run`
-- Start a Scala 3 REPL: `sbt console`
-
-
+## ⭐️ Star This Project
+If you find this helpful, give it a ⭐️ to help others discover it!
