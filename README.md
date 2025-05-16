@@ -48,6 +48,8 @@ sbt compile
 sbt run
 
 ## 🧭 Usage Guide
+
+```
 🧍 Initial Setup
 On first launch, the chatbot will request:
 
@@ -95,7 +97,7 @@ Tell me a joke
 What can you do?
 
 Exit
-
+```
 
 ## 🧱 Project Structure
 
