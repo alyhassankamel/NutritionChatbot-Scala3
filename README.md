@@ -99,24 +99,26 @@ Exit
 
 ## 🧱 Project Structure
 
-src/
-├── Main.scala                 # Main loop
-├── User.scala                 # User profile logic
-├── BMI.scala                  # BMI calculations
-├── FFMI.scala                 # FFMI calculations
-├── Diet.scala                 # Nutrition tips
-├── Facts.scala                # Fitness facts
-├── Quiz.scala                 # Fitness quiz
-├── Analytics.scala            # Tracking progress
-├── WorkoutPlanner.scala       # Workout planning
-├── Preferences.scala          # User preferences
-├── Jokes.scala                # Fitness jokes
-├── Tips.scala                 # Health tips
-├── Motivations.scala          # Motivational quotes
-├── CommandParser.scala        # NLP-style command handling
-├── ConversationManager.scala  # History logging
-├── InputValidator.scala       # Input validation
-├── SmallTalk.scala            # Friendly interactions
+```plaintext
+src/main/scala/
+  Main.scala                 # Main loop
+  User.scala                 # User profile logic
+  BMI.scala                  # BMI calculations
+  FFMI.scala                 # FFMI calculations
+  Diet.scala                 # Nutrition tips
+  Facts.scala                # Fitness facts
+  Quiz.scala                 # Fitness quiz
+  Analytics.scala            # Tracking progress
+  WorkoutPlanner.scala       # Workout planning
+  Preferences.scala          # User preferences
+  Jokes.scala                # Fitness jokes
+  Tips.scala                 # Health tips
+  Motivations.scala          # Motivational quotes
+  CommandParser.scala        # NLP-style command handling
+  ConversationManager.scala  # History logging
+  InputValidator.scala       # Input validation
+  SmallTalk.scala            # Friendly interactions
+```
 
 ##🧪 Development & Testing
 
